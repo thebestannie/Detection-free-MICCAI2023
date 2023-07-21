@@ -1,9 +1,9 @@
 # Detection-free-MICCAI2023
 Welcome to the repository for our MICCAI 2023 paper titled "XXX". In this repository, you will find the necessary resources, including code, pre-trained models for our detection-free method.
 
-![Image1](./image1.png)
-![Image2](./image2.png)
-![Image3](./image3.png)
+![Image1](./fig1.png)
+![Image2](./fig2.png)
+![Image3](./fig3.png)
 
 After submitting our paper, we continued to conduct larger-scale experiments (for 10000-level samples) and achieved even better results. The link to the updated pre-trained model checkpoint can be found below:
 
