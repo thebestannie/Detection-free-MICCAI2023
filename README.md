@@ -13,6 +13,6 @@ After submitting our paper, we continued to conduct larger-scale experiments (fo
 [Model Checkpoint for ResNet](链接：https://pan.baidu.com/s/12dAiemPcoDe-dWegQ--Rfg 
 提取码：wfrf)
 
-We hope that our work can contribute to the field and encourage further research in detection-free methods. Please feel free to explore our repository and use our resources for your own research. If you have any questions or issues or if you would like to have collaboration with our large amount of data, don't hesitate to contact us at qianwang@shanghaitech.edu.cn
+We hope that our work can contribute to the field and encourage further research in detection-free methods. Please feel free to explore our repository and use our resources for your own research. If you have any questions or issues or if you would like to have collaboration with our large amount of data, don't hesitate to contact us at 1290646445@qq.com or caoms@shanghaitech.edu.cn
 
 Happy researching!
